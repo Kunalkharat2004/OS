@@ -1,0 +1,15 @@
+HELLO WORLD!
+-----------------------------------------------------------------------------------
+
+program terminated normally
+
+SI = 3  TI =0  PI=0
+TTC = 6  LLC=1
+----------------------------------------------------------
+
+program terminated normally
+
+**** Time Limit Exceeded : ****
+**** Program terminated abnormally. ****
+SI = 2  TI =2  PI=0
+TTC = 6  LLC=1
